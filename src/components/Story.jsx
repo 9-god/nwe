@@ -106,14 +106,13 @@ const FloatingImage = () => {
         <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
-              Where realms converge, lies Zentry and the boundless pillar.
-              Discover its secrets and shape your fate amidst infinite
-              opportunities.
+             Where worlds collide, N’we rises — a gateway to limitless potential.
+Uncover its secrets, master its systems, and forge your destiny in a universe built for bold players and infinite possibilities.
             </p>
 
             <Button
               id="realm-btn"
-              title="discover prologue"
+              title="discover"
               containerClass="mt-5"
             />
           </div>

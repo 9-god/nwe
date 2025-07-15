@@ -6,7 +6,7 @@ import { TiLocationArrow } from "react-icons/ti";
 
 import Button from "./Button";
 
-const navItems = ["Nexus", "Vault", "Prologue", "About", "Contact"];
+const navItems = [""];
 
 const NavBar = () => {
   // State for toggling audio and visual indicator
@@ -71,7 +71,7 @@ const NavBar = () => {
         <nav className="flex size-full items-center justify-between p-4">
           {/* Logo and Product button */}
           <div className="flex items-center gap-7">
-            <img src="/img/logo.png" alt="logo" className="w-10" />
+            <img src="/img/logo11.png" alt="logo" className="w-10" />
 
             <Button
               id="product-button"
@@ -102,7 +102,7 @@ const NavBar = () => {
               <audio
                 ref={audioElementRef}
                 className="hidden"
-                src="/audio/loop.mp3"
+                src="/audio/loop1.mp3"
                 loop
               />
               {[1, 2, 3, 4].map((bar) => (

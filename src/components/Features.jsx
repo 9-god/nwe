@@ -103,12 +103,12 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+          Into the Gaming World
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+        N’we isn’t just a platform — it’s the next layer of gaming. One universe, endless games, real rewards. Jump into a fully connected experience where your skills shape the economy and your wins build legacy.
+
+
         </p>
       </div>
 

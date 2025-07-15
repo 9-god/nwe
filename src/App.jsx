@@ -12,10 +12,9 @@ function App() {
       <NavBar />
       <Hero />
       <About />
-      <Features />
+      
       <Story />
-      <Contact />
-      <Footer />
+      
     </main>
   );
 }
