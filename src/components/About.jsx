@@ -39,7 +39,7 @@ const About = () => {
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
+          <p>The Game of Games begins—your life.</p>
           <p className="text-gray-500">
             N'we unites every player from countless games and platforms, both
             digital and physical, into a unified Play Economy
